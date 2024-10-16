@@ -1,2 +1,2 @@
 # Plant-Co.-Performance-Report
-Visualisation done with POwer BI
+Visualisation done with Power BI
